@@ -1,0 +1,26 @@
+.container{
+    display: flex;
+    flex-direction: column;
+    align-content: space-around;
+    flex-wrap: wrap;
+    margin-top: 10rem;
+}
+h1{
+    font-size: 50px;
+    margin-left: auto;
+    margin-right: auto;
+}
+span{
+    font-size: 50px;
+    font-weight: bolder;
+    margin-left: auto;
+    margin-right: auto;
+}
+.button-container{
+    margin-top: 1rem;
+}
+.btn{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 20px;
+    border-radius: 5px;
+}
